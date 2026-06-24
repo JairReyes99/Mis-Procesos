@@ -1,0 +1,12 @@
+{
+    "The email field is required.": "El campo correo electrónico es obligatorio.",
+    "The password field is required.": "El campo contraseña es obligatorio.",
+    "These credentials do not match our records.": "Estas credenciales no coinciden con nuestros registros.",
+    "Login": "Iniciar Sesión",
+    "Logout": "Cerrar Sesión",
+    "Register": "Registrarse",
+    "Email Address": "Dirección de Correo",
+    "Password": "Contraseña",
+    "Remember Me": "Recordarme",
+    "Forgot Your Password?": "¿Olvidaste tu contraseña?"
+}
